@@ -11,6 +11,7 @@ public class abc{
                 q=p^q;
                 p = 3+12+r;
             }
+            
             System.out.println(p+" "+q);
         }
         System.out.println(p+q);
